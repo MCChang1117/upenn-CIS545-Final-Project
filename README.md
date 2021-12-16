@@ -14,6 +14,7 @@ The following two main files do not upload to Github since those files are too l
 
 * `/dataset/financial/stock_prices_latest.csv`
 * `/dataset/text/tweet/Tweet.csv`
+* `/dataset/text/tweet/Company_Tweet.csv`
 
 # Abstract
 
